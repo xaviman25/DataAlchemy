@@ -21,3 +21,4 @@ if __name__ == "__main__":
     job3 = time.time()
     print("\n# Time to complete Load ---->", job3-job2, "\n")
     print("\nTime to finish up ETL job ---->", time.time()-start, "\n")
+
