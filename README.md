@@ -35,19 +35,19 @@ run `pytest --cov`
 # Output Screenshots:
 
 ### 1. Code output:
-![Screenshot (19)](https://github.com/Everestek/etl-induction/assets/168069760/ede8da35-5eb3-4064-8dbf-e67f8975a9e7)
+![Code Output](https://drive.google.com/uc?export=view&id=1VRPJu0n95uq7botcEUJogm5396vK-kDF)
 
 ### 2. Test cases output
-![Screenshot (18)](https://github.com/Everestek/etl-induction/assets/168069760/73898c36-fe8a-467e-adf4-f39937a9e92e)
+![Test cases output](https://drive.google.com/uc?export=view&id=1-ZNrEnOqkRPWIOgYQ3sMnBjskTDd6XCZ)
 
 ### 3. Raw table preview
-![Screenshot (20)](https://github.com/Everestek/etl-induction/assets/168069760/03b7988d-0e70-485c-bcdf-c78e8389218e)
+![Raw table preview](https://drive.google.com/uc?export=view&id=1nhPsv6ryrFK-nzy4AN95hOEKvX5uQmmq)
 
 ### 4. Processed table preview
-![Screenshot (21)](https://github.com/Everestek/etl-induction/assets/168069760/d81a1ade-c2f5-498f-98a5-ec4dc480b6fe)
+![Processed table preview](https://drive.google.com/uc?export=view&id=1avGgshOBnfo_WNty2HrxXjQAvzSOA6hL)
 
 ### 5. Outliers table preview:
-![Screenshot (22)](https://github.com/Everestek/etl-induction/assets/168069760/c7514092-070b-42ab-a704-ae3233f11a66)
+![Outliers table preview](https://drive.google.com/uc?export=view&id=1OxOEvUglGoQ3wJb9FBPgTK33Q6kYhzxL)
 
 ---
 ## Steps to start the project locally :
