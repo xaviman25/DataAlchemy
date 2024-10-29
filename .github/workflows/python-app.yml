@@ -3,7 +3,8 @@ name: Python CI
 on:
   push:
     branches:
-      - engineering_improvement/etl-introduction-task-8  # Adjust branch name as needed
+      - feat/ETL-first-push # Adjust branch name as needed
+      - main
 
 jobs:
   test:
