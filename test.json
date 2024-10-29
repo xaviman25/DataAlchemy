@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "",
+        "email": "john.doe@example.com",
+        "salary": "50000",
+        "department": "HR",
+        "join_date": "2022-01-10"
+    },
+    {
+        "id": 2,
+        "name": "Jane Doe",
+        "email": "invalid_email",
+        "salary": "60000",
+        "department": "Marketing",
+        "join_date": "2022-05-15"
+    },
+    {
+        "id": 3,
+        "name": "Bob Smith",
+        "email": "bob.smith@example.com",
+        "salary": "-55000",
+        "department": "IT",
+        "join_date": "2022-08-20"
+    },
+    {
+        "id": 4,
+        "name": "Alice Johnson",
+        "email": "",
+        "salary": "70000",
+        "department": "Finance",
+        "join_date": "2022-03-30"
+    },
+    {
+        "id": 5,
+        "name": "Chris Lee",
+        "email": "chris.lee@example.com",
+        "salary": "abc123",
+        "department": "Administration",
+        "join_date": "2022-07-22"
+    },
+    {
+        "id": 6,
+        "name": "Emily Davis",
+        "email": "emily.davis@example.com",
+        "salary": "45000",
+        "department": "HR",
+        "join_date": "2022\/02\/28"
+    },
+    {
+        "id": 7,
+        "name": "David Green",
+        "email": "david.green@example.com",
+        "salary": "52000",
+        "department": "Marketing",
+        "join_date": "2022.03.15"
+    },
+    {
+        "id": 8,
+        "name": "Sarah Brown",
+        "email": "sarah.brown@webmail",
+        "salary": "60000",
+        "department": "IT",
+        "join_date": "20-08-2022"
+    },
+    {
+        "id": 9,
+        "name": "",
+        "email": "mike.wilson@example.com",
+        "salary": "65000",
+        "department": "Finance",
+        "join_date": "12-30-2021"
+    },
+    {
+        "id": 10,
+        "name": "Olivia Gonzalez",
+        "email": "olivia.gonzalez@company",
+        "salary": "NaN",
+        "department": "Administration",
+        "join_date": "01-01-2022"
+    },
+    {
+        "id": 11,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "salary": "45000",
+        "department": "HR",
+        "join_date": "2022-12-10"
+    },
+    {
+        "id": 12,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "salary": "45000",
+        "department": "HR",
+        "join_date": "2022-12-10"
+    },
+    {
+        "id": 13,
+        "name": "",
+        "email": "lisa.white@example.com",
+        "salary": "",
+        "department": "Marketing",
+        "join_date": "2022-11-25"
+    },
+    {
+        "id": 14,
+        "name": "Eva Black",
+        "email": "eva.black@example.com",
+        "salary": "-20000",
+        "department": "IT",
+        "join_date": "2022-05-09"
+    },
+    {
+        "id": 15,
+        "name": "Michael Brown",
+        "email": "michael.brown@site",
+        "salary": "30000",
+        "department": "Finance",
+        "join_date": "20220510"
+    },
+    {
+        "id": 16,
+        "name": "Karen Hill",
+        "email": "karen.hill@domain.com",
+        "salary": "25000USD",
+        "department": "Administration",
+        "join_date": "2022-02-29"
+    },
+    {
+        "id": 17,
+        "name": "Brian Scott",
+        "email": "brian.scott@example.com",
+        "salary": "50000",
+        "department": "",
+        "join_date": "2022-07-31"
+    },
+    {
+        "id": 18,
+        "name": "Sofia Clarke",
+        "email": "sofia.clarke@example.com",
+        "salary": "65000",
+        "department": "HR",
+        "join_date": "2022-15-01"
+    },
+    {
+        "id": 19,
+        "name": "",
+        "email": "peter.adams@web",
+        "salary": "40000",
+        "department": "Marketing",
+        "join_date": "2022-11-30"
+    },
+    {
+        "id": 20,
+        "name": "Laura Lee",
+        "email": "laura.lee@example.com",
+        "salary": "sixty thousand",
+        "department": "IT",
+        "join_date": "2022-10-28"
+    }
+]
